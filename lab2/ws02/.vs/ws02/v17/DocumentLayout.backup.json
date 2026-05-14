@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\dma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|solutionrelative:dma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|solutionrelative:input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\dma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|solutionrelative:dma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D2B593-E69F-4348-87FD-1919E54340DD}|ws02.vcxproj|solutionrelative:input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T20:20:14.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.cpp",
+              "DocumentMoniker": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\input.cpp",
+              "RelativeDocumentMoniker": "input.cpp",
+              "ToolTip": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\input.cpp",
+              "RelativeToolTip": "input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T18:01:14.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.h",
+              "DocumentMoniker": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\input.h",
+              "RelativeDocumentMoniker": "input.h",
+              "ToolTip": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\input.h",
+              "RelativeToolTip": "input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-17T18:01:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dma.h",
+              "DocumentMoniker": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\dma.h",
+              "RelativeDocumentMoniker": "dma.h",
+              "ToolTip": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\dma.h",
+              "RelativeToolTip": "dma.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-17T18:00:47.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dma.cpp",
+              "DocumentMoniker": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\dma.cpp",
+              "RelativeDocumentMoniker": "dma.cpp",
+              "ToolTip": "C:\\Users\\celal\\OneDrive\\Masa\u00FCst\u00FC\\school\\semester2\\c\u002B\u002B\\lab2\\ws02\\dma.cpp",
+              "RelativeToolTip": "dma.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T18:00:21.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
